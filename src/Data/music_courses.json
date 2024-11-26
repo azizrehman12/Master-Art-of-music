@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Piano Fundamentals",
+            "slug": "piano-fundamentals",
+            "description": "Learn the basics of playing the piano",
+            "price": 89.99,
+            "instructor": "Jane",
+            "isFeatured": true,
+            "image": "/courses/piano.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Advanced Piano Techniques",
+            "slug": "advanced-piano-techniques",
+            "description": "Learn advanced techniques for playing the piano",
+            "price": 149.99,
+            "instructor": "John",
+            "isFeatured": false,
+            "image": ""
+        }
+    ]
+}
